@@ -8,6 +8,14 @@ Josie Buter - IBM - ( josie.beth.buter@ibm.com )
 
 <p>&nbsp;</p>
 
+**Contents below**
+- [Background](#background)
+- [About the workshop](#about-the-workshop)
+- [Prerequisites](#prerequisites)
+- [Workshop notebooks](#workshop-notebooks)
+- [Demo videos](#demo-videos)
+
+<p>&nbsp;</p>
 
 ## Background
 The [IBM Watson Natural Language Processing library](https://cloud.ibm.com/catalog/services/language-translator) is a Python library that provides basic natural language processing (NLP) such as syntax analysis and keyword extraction with out-of-the-box, pre-trained models. The Watson NLP library also makes it simple to customize the language models with dictionaries of your domain-specific terms.
