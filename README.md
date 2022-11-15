@@ -46,7 +46,7 @@ Before beginning the workshop, complete the following prerequisite steps:
 1. Register for an IBM Cloud account
 2. Create an instance of IBM Cloud Pak for Data as a Service
 
-You can accomplish both of these things in one step here: https://dataplatform.cloud.ibm.com/registration/stepone?audience=wdp
+You can accomplish both of these things in one step here:<br/>https://dataplatform.cloud.ibm.com/registration/stepone?audience=wdp
 
 See also:
 - [IBM Cloud account](https://cloud.ibm.com)
@@ -57,11 +57,11 @@ See also:
 
 ## Workshop notebooks
 
-Part 1 of the workshop steps through running this sample notebook:<br/>[WEAVESPHERE-2022-Workshop-Part-1-of-2](WEAVESPHERE-2022-Workshop-Part-1-of-2.ipynb)
+Part 1 of the workshop steps through running this sample notebook:<br/>[WEAVESPHERE-2022-Workshop-Part-1-of-2](sample-notebooks/WEAVESPHERE-2022-Workshop-Part-1-of-2.ipynb)
 
 <img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-project-01_feedback-mural.png" width="50%" alt="Sample mural" />
 
-Part 2 of the workshop steps through running this sample notebook:<br/>[WEAVESPHERE-2022-Workshop-Part-2-of-2](WEAVESPHERE-2022-Workshop-Part-2-of-2.ipynb)
+Part 2 of the workshop steps through running this sample notebook:<br/>[WEAVESPHERE-2022-Workshop-Part-2-of-2](sample-notebooks/WEAVESPHERE-2022-Workshop-Part-2-of-2.ipynb)
 
 <img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/weavesphere-2022-chart-in-mural.png" width="50%" alt="Sample mural" />
 
