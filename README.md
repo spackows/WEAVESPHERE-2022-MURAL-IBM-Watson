@@ -50,7 +50,7 @@ You can accomplish both of these things in one step here:<br/>https://dataplatfo
 
 See also:
 - [IBM Cloud account](https://cloud.ibm.com)
-- [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) also called "IBM Cloud Pak for Data as a Service"
+- [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) (also called "IBM Cloud Pak for Data as a Service")
 
 <p>&nbsp;</p>
 
