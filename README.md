@@ -6,6 +6,8 @@ Sarah Packowski - IBM - ( spackows@ca.ibm.com )<br/>
 Anuj Jain - MURAL - ( ajain@mural.co )<br/>
 Josie Buter - IBM - ( josie.beth.buter@ibm.com )
 
+<img src="images/mural-watson-poster.png" alt="Expo poster" width="60%" />
+
 <p>&nbsp;</p>
 
 **Contents below**
